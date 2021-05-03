@@ -11,7 +11,7 @@ public class MainClass02 {
 		
 		// int type  과  double type 을 연산하면 결과는 double type 이다. 
 		double ave=(kor+eng)/2.0;
-		
+		//2.0d니까 
 		System.out.println("평균:"+ave);
 	}
 }

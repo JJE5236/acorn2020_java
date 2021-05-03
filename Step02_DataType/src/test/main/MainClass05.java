@@ -18,6 +18,7 @@ public class MainClass05 {
 	}
 }
 
+///id값 들고다니는게 참조 데이타 타입!
 
 
 
